@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823745149135",
+    "project_id": "auth-tutorial-221dd",
+    "storage_bucket": "auth-tutorial-221dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823745149135:android:02cfeb8c7c7ae76ed61fba",
+        "android_client_info": {
+          "package_name": "com.example.google"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3V_zKKigWrBHDjhxSnU0Otxprn6PrblI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823745149135:android:6ad889b0e1aae533d61fba",
+        "android_client_info": {
+          "package_name": "com.example.google_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3V_zKKigWrBHDjhxSnU0Otxprn6PrblI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
